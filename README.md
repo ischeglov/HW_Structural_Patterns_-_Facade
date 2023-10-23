@@ -28,7 +28,7 @@ public class BinOps {
 ```java
 public class Main {
   public static void main(String[] args) {
-    BinOps bins = new BinOps();s
+    BinOps bins = new BinOps();
     //демонстрация
   }
 }
